@@ -1,0 +1,5 @@
+open-plc-utils (2016-09-18-147001703e10e2b18bb3a2a148013475481aeecd-1) unstable; urgency=low
+
+  * Initial debian packaging
+
+ -- Michael Heimpold <mhei@heimpold.de>  Sun, 18 Sep 2016 20:49:41 +0200
